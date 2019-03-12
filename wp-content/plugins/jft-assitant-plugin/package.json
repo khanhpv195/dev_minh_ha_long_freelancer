@@ -1,0 +1,29 @@
+{
+  "name": "jft-assistant-plugin",
+  "version": "1.0.5",
+  "description": "JustFreeThemes assitant",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Codeinwp/jft-assistant.git"
+  },
+  "keywords": [
+    "wordpress-plugin"
+  ],
+  "textdomain": "jft-assistant",
+  "category": "plugins",
+  "author": "ThemeIsle <friends@themeisle.com>",
+  "license": "GPL-2.0+",
+  "bugs": {
+    "url": "https://github.com/Codeinwp/jft-assistant/issues"
+  },
+  "pot": {
+    "reportmsgidbugsto": "https://github.com/Codeinwp/jft-assistant/issues",
+    "languageteam": "Themeisle Translate <friends@themeisle.com>",
+    "lasttranslator": "Themeisle Translate Team <friends@themeisle.com>"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-plugin-fleet": "codeinwp/grunt-plugin-fleet",
+    "load-project-config": "~0.2.0"
+  }
+}

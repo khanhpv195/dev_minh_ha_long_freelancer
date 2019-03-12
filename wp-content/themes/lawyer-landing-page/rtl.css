@@ -1,0 +1,204 @@
+/*
+Theme Name: Lawyer Landing Page
+
+Adding support for language written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+https://codex.wordpress.org/Right_to_Left_Language_Support
+
+*/
+
+body {
+    direction: rtl;
+    unicode-bidi: embed;
+}
+
+.site-header .site-branding,
+.site-header .site-branding .custom-logo-link,
+.site-header .header-b .search-form input[type="search"],
+.main-navigation li {
+    float: right;
+}
+
+.site-header .header-t .tools,
+.site-header .header-b .search-form,
+.site-header .header-b .search-form input[type="submit"],
+.banner .wpcf7-form {
+    float: left;
+}
+
+.site-header .site-branding .custom-logo-link {
+    margin-right: 0;
+    margin-left: 11px;
+    /*	transform: rotateY(180deg);
+*/
+}
+
+.site-header .header-b .search-form input[type="search"] {
+    padding-left: 0;
+    padding-right: 13px;
+}
+
+.main-navigation,
+.banner .text {
+    float: right;
+}
+
+.main-navigation ul li:first-child,
+.main-navigation ul li {
+    margin-left: 38px;
+}
+
+.main-navigation ul ul li,
+.main-navigation ul ul li:first-child {
+    margin-left: 0;
+}
+
+.main-navigation ul li:hover > ul {
+    left: auto;
+    right: 0;
+}
+
+.main-navigation ul ul li:hover > ul {
+    left: auto;
+    right: 100%;
+}
+
+.banner .text ul li::before {
+    display: inline-block;
+    margin-right: 0;
+    margin-left: 15px;
+}
+
+.banner .text ul li {
+    margin-left: 0;
+}
+
+.banner .wpcf7-form {
+    direction: rtl;
+}
+
+.banner .wpcf7-form::after {
+    transform: rotateY(180deg);
+    left: auto;
+    right: -175px;
+}
+
+.about .img-holder,
+.about .text-holder,
+.practice-area .col,
+.why-us .col,
+.team .col,
+.site-footer .column {
+    float: right;
+}
+
+.comment-author-link,
+.widget .recentcomments a {
+    display: inline-block !important;
+}
+
+.widget.widget_lawyer_landing_page_recent_post ul li .post-thumbnail {
+    float: right;
+    margin-right: 0;
+    margin-left: 20px;
+}
+
+.site-footer .widget.widget_lawyer_landing_page_recent_post ul li .entry-header .entry-meta .posted-on a::before {
+    margin-right: 0;
+    float: right;
+    margin-left: 7px;
+}
+
+.widget.widget_search .search-form input[type="search"],
+.search #primary .search-form input[type="search"] {
+    float: right;
+}
+
+.widget.widget_search .search-form input[type="submit"],
+.search #primary .search-form input[type="submit"] {
+    float: left;
+}
+
+.widget.widget_search .search-form label {
+    float: right;
+}
+
+.widget.widget_search .search-form input[type="search"],
+.search #primary .search-form input[type="search"] {
+    padding-left: 0;
+    padding-right: 13px;
+}
+
+#primary .post .entry-content blockquote,
+#primary .page .entry-content blockquote {
+    background-position: 100% 6px;
+    padding-left: 0;
+    padding-right: 60px;
+}
+
+#crumbs {
+    float: left;
+}
+
+#crumbs span,
+#crumbs a {
+    display: inline-block;
+}
+
+.widget.widget_tag_cloud .tagcloud a {
+    float: right;
+}
+
+#secondary .widget ul li a {
+    display: inline-block;
+}
+
+#secondary .widget.widget_lawyer_landing_page_popular_post ul li .entry-header .entry-meta .posted-on a::before,
+#secondary .widget.widget_lawyer_landing_page_recent_post ul li .entry-header .entry-meta .posted-on a::before,
+#secondary .widget.widget_archive ul li::before,
+#secondary .widget.widget_categories ul li::before,
+#primary .post .entry-header .entry-meta .posted-on::before,
+#primary .post .entry-header .entry-meta .tag-links::before,
+#primary .post .entry-header .entry-meta .cat-links::before,
+#primary .post .entry-header .entry-meta .byline::before,
+#primary .post .entry-header .entry-meta .comments-link::before {
+    margin-right: 0;
+    margin-left: 8px;
+    float: right;
+}
+
+#primary .post .entry-header .entry-meta span{
+	margin-right: 0;
+	margin-left: 25px;
+}
+
+#primary .post .entry-footer .btn-readmore, .search #primary .page .entry-footer .btn-readmore{
+	float: right;
+}
+
+.gallery-item{
+	float: right;
+}
+
+.search #primary .search-form label{
+	float: right;
+}
+
+.error-holder{
+	margin-left: 0;
+	margin-right: 310px;
+}
+
+.author .img-holder{
+	float: right;
+	margin-right: 0;
+	margin-left: 35px;
+}
+
+.comments-area .comment-list .comment-body .avatar{
+	float: right;
+	margin-right: 0;
+	margin-left: 27px;
+}

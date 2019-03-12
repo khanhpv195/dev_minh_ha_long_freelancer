@@ -1,0 +1,1031 @@
+# Translation of Themes - Lawyer Landing Page in Vietnamese
+# This file is distributed under the same license as the Themes - Lawyer Landing Page package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-11-29 09:14:44+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Themes - Lawyer Landing Page\n"
+
+#. Description of the plugin/theme
+msgid "Lawyer Landing page is a sophisticated, elegant, professional and robustly built WordPress theme for Lawyers, Law Firm and Attorney website. The theme is very versatile and can also be easily used by various types of business, corporations and freelancers. Lawyer Landing Page comes with several features to make a user-friendly, interactive and visually stunning website. Such features include custom menu, attractive banner with contact form, About section, Service section, ion, testimonial section, Team Section, FAQ Section, Banner with Call to Action Button (CTA), and social media. The theme is SEO friendly with optimized codes, which make it easy for your site to rank on Google and other search engines. The theme is rigorously tested and optimized for speed and faster page load time and has a secure and clean code. The theme is also translation ready. Designed with visitor engagement in mind, Lawyer Landing Page helps you to easily and intuitively create professional and appealing websites. The is an ideal professional WordPress theme for counsel, law firm, legal officer, adviser, solicitor, consultant, and finance websites. Check the demo at https://raratheme.com/previews/?theme=lawyer-landing-page, video documentation at https://raratheme.com/documentation/lawyer-landing-page/, and get support at https://raratheme.com/support-ticket/."
+msgstr "Lawyer Landing page là một giao diện Wordpress được thiết kế dành riêng cho các Luật sư, Công ty luật và các trang web luật mang phong cách tinh tế, trang nhã, chuyên nghiệp. Giao diện được thiết kế một cách linh hoạt để có thể dễ dàng sử dụng nhiều loại hình kinh doanh, công ty và freelancer. Lawyer Landing Page rất thân thiện với người dùng và trên các thiết bị di động, máy tính bảng giúp giang web của bạn mang một diện mạo mới vẻ đẹp mới. Có các tính năng bao gồm Tùy chỉnh menu, Banner với mẫu liên hệ hấp dẫn, mục giới thiệu, mục dịch vụ, ion, Mục chứng nhận, Mục nhóm, Mục FAQ, Banner với nút Gọi hành động (CTA) và phương tiện truyền thông xã hội. Giao diện được tính hợp SEO thân thiện cùng với tối ưu code, để cho trang web của bạn dễ dàng xếp hàng trên Google và các công cụ tìm kiếm khác. Mã code của giao diện được kiểm tra nghiêm ngặt để tối ưu hóa tốc độ để thời gian tải trang nhanh hơn và an toàn hơn. Các bản dịch của giao diện cũng được chuẩn bị. Được thiết kế với sự tham gia của khách truy cập, Lawyer Landing page giúp bạn dễ dàng tạo ra những trang web đẹp, hấp dẫn và trực quan. Đây là giao diện Wordpress lý tưởng – chuyên nghiệp dành cho luật sư, công ty luật, nhân viên pháp lý, cố vấn , cố vấn pháp luật, tư vấn viên, và trang web tài chính. Kiểm tra demo tại https://raratheme.com/previews/?theme=lawyer-landing-page, tài liệu video tại https://raratheme.com/documentation/lawyer-landing-page/, và nhận hỗ trợ tại https://raratheme.com/support-ticket/."
+
+#. Theme Name of the plugin/theme
+msgid "Lawyer Landing Page"
+msgstr "Lawyer Landing Page"
+
+#: inc/customizer/info.php:43
+msgid "Theme Demo: "
+msgstr "Giao diện Demo: "
+
+#: inc/customizer/info.php:42
+msgid "Video Tutorial: "
+msgstr "Video hướng dẫn: "
+
+#: inc/customizer/info.php:30
+msgid "Check out step-by-step video tutorial to create your website like the demo of Lawyer Landing Page WordPress theme."
+msgstr "Kiểm tra từng bước hướng dẫn video để tạo trang web của bạn giống như bản demo của giao diện Lawyer Landing Page WordPress .  "
+
+#: inc/customizer/info.php:11
+msgid "Video Tutorial"
+msgstr "Video hướng dẫn"
+
+#: inc/customizer/demo-content.php:41
+msgid "Download Demo Content Zip File"
+msgstr "Tải xuống nội dung Demo Zip File"
+
+#: inc/customizer/demo-content.php:38
+msgid "Rara One Click Demo Import"
+msgstr "Rara Cú nhấp để nhập Demo vào"
+
+#: inc/customizer/demo-content.php:38
+msgid "Plugin required"
+msgstr "Yêu cầu plugin"
+
+#: inc/customizer/demo-content.php:22
+msgid "Lawyer Landing Page comes with demo content import feature. You can import the demo content with just one click. For step-by-step video tutorial, %1$sClick here%2$s"
+msgstr "Lawyer Landing Page đi kèm với tính năng nhập nội dung demo. Bạn có thể nhập nội dung giới thiệu bằng một cú nhấp chuột. Để được hướng dẫn video từng bước, %1$sBấm vào đây%2$s"
+
+#: inc/customizer/demo-content.php:11
+msgid "Demo Content Import"
+msgstr "Nhập Nội dung Demo"
+
+#: inc/customizer/footer.php:31
+msgid "Copyright Info"
+msgstr "Thông tin bản quyền"
+
+#: inc/customizer/footer.php:14
+msgid "Footer Settings"
+msgstr "Cài đặt chân trang"
+
+#: inc/customizer/social.php:214 inc/extras.php:141
+msgid "Xing"
+msgstr "Xing"
+
+#: inc/customizer/social.php:196 inc/extras.php:139
+msgid "VK"
+msgstr "VK"
+
+#: inc/customizer/social.php:179 inc/extras.php:137
+msgid "OK"
+msgstr "OK"
+
+#: inc/customizer/info.php:162
+msgid "VIEW PRO THEME"
+msgstr "XEM THEME BẢN PRO"
+
+#: inc/customizer/info.php:160
+msgid "Pro Available"
+msgstr "Pro sẵn có"
+
+#: inc/woocommerce-functions.php:38
+msgid "Sidebar displaying only in woocommerce pages."
+msgstr "Thanh bên hiển thị chỉ trong các trang woocommerce."
+
+#: inc/woocommerce-functions.php:36
+msgid "Shop Sidebar"
+msgstr "Sidebar cửa hàng"
+
+#. Template Name of the plugin/theme
+msgid "Home Page"
+msgstr "Trang chủ"
+
+#. translators: %s: Name of current post.
+#: template-parts/content-single.php:28 template-parts/content.php:31
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Tiếp tục đọc %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content-page.php:28 template-parts/content-single.php:33
+#: template-parts/content.php:35
+msgid "Pages:"
+msgstr "Trang:"
+
+#: template-parts/content-none.php:30
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Có vẻ như chúng tôi không thể tìm thấy những gì bạn đang tìm kiếm. Có lẽ tìm kiếm có thể giúp đỡ."
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Rất tiếc, không có nội dung nào khớp với yêu cầu tìm kiếm của bạn. Hãy thử lại với các từ khóa khác."
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Bạn đã sẵn sàng đăng bài viết đầu tiên chưa? <a href=\"%1$s\">Hãy bắt đầu tại đây</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Không có kết quả"
+
+#: inc/widgets/widgets.php:34
+msgid "Add footer three widgets."
+msgstr "Thêm 3 widgets vào cuối trang"
+
+#: inc/widgets/widgets.php:32
+msgid "Footer Three"
+msgstr "Cuối trang Ba"
+
+#: inc/widgets/widgets.php:29
+msgid "Add footer two widgets."
+msgstr "Thêm 2 widgets vào cuối trang"
+
+#: inc/widgets/widgets.php:27
+msgid "Footer Two"
+msgstr "Cuối trang hai"
+
+#: inc/widgets/widgets.php:24
+msgid "Add footer one widgets."
+msgstr "Thêm 1 widgets vào cuối trang"
+
+#: inc/widgets/widgets.php:22
+msgid "Footer One"
+msgstr "Cuối trang đầu tiên"
+
+#: inc/widgets/widgets.php:19
+msgid "Add widgets here."
+msgstr "Thêm widget ở đây."
+
+#: inc/widgets/widgets.php:17
+msgid "Right Sidebar"
+msgstr "Sidebar bên phải"
+
+#: inc/widgets/widget-social-links.php:70
+msgid "You can change the social links from the customizer in Social Settings options."
+msgstr "Bạn có thể thay đổi các liên kết xã hội từ customizer trong các tùy chọn Cài đặt mạng xã hội ."
+
+#: inc/widgets/widget-social-links.php:27
+msgid "A Social Links Widget."
+msgstr "Widget Liên kết mạng xã hội."
+
+#: inc/widgets/widget-social-links.php:26
+msgid "RARA: Social Links"
+msgstr "RARA: Liên kết mạng xã hội"
+
+#: inc/widgets/widget-recent-post.php:27
+msgid "A Recent Post Widget"
+msgstr "Widget bài viết gần đây"
+
+#: inc/widgets/widget-recent-post.php:26
+msgid "RARA: Recent Post"
+msgstr "RARA: Bài viết gần đây"
+
+#: inc/widgets/widget-popular-post.php:124
+#: inc/widgets/widget-recent-post.php:123
+msgid "Show Post Date"
+msgstr "Hiển thị ngày bài viết"
+
+#: inc/widgets/widget-popular-post.php:113
+#: inc/widgets/widget-recent-post.php:112
+msgid "Number of Posts"
+msgstr "Số bài viết"
+
+#: inc/widgets/widget-popular-post.php:108
+#: inc/widgets/widget-recent-post.php:107
+#: inc/widgets/widget-social-links.php:65
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: inc/widgets/widget-popular-post.php:27
+msgid "A Popular Post Widget"
+msgstr "Widget bài viết phổ biến"
+
+#: inc/widgets/widget-popular-post.php:26
+msgid "RARA: Popular Post"
+msgstr "RARA: Bài viết phổ biến"
+
+#: inc/widgets/widget-featured-post.php:119
+#: inc/widgets/widget-popular-post.php:119
+#: inc/widgets/widget-recent-post.php:118
+msgid "Show Post Thumbnail"
+msgstr "Hiển thị hình thu nhỏ bài viết"
+
+#: inc/widgets/widget-featured-post.php:113
+msgid "Read More Text"
+msgstr "Đọc thêm Văn bản"
+
+#: inc/widgets/widget-featured-post.php:103
+msgid "Posts"
+msgstr "Bài viết"
+
+#: inc/widgets/widget-featured-post.php:85
+msgid "--choose--"
+msgstr "--chọn--"
+
+#: inc/widgets/widget-featured-post.php:41
+#: inc/widgets/widget-featured-post.php:97
+#: inc/widgets/widget-featured-post.php:139 template-parts/content.php:44
+msgid "Read More"
+msgstr "Đọc tiếp"
+
+#: inc/widgets/widget-featured-post.php:27
+msgid "A Featured Post Widget"
+msgstr "Widget bài viết nổi bật"
+
+#: inc/widgets/widget-featured-post.php:26
+msgid "RARA: Featured Post"
+msgstr "RARA: Bài viết nổi bật"
+
+#: inc/template-functions.php:392
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: inc/template-functions.php:392
+msgid "Powered by %s"
+msgstr "Được hỗ trợ bởi %s"
+
+#: inc/template-functions.php:391
+msgid "Lawyer Landing Page by Rara Theme"
+msgstr "Trang đích Luật sư by Rara Chủ đề"
+
+#: inc/template-functions.php:384
+msgid "&copy; Copyright "
+msgstr "&Sao chép; Bản quyền "
+
+#: inc/template-functions.php:280
+msgid "About Author"
+msgstr "về tác giả"
+
+#: inc/template-functions.php:162
+msgid "404 - Page not Found"
+msgstr "404 - Trang không tìm thấy"
+
+#: inc/template-functions.php:160
+msgid "Search Results for \"%s\""
+msgstr "Tìm kiếm kết quả cho \"%s\""
+
+#: inc/metabox.php:40
+msgid "Choose Sidebar Template"
+msgstr "Chọn Mẫu Sidebar"
+
+#: inc/metabox.php:28
+msgid "No sidebar"
+msgstr "Không có thanh bên"
+
+#: inc/metabox.php:23
+msgid "Right sidebar (default)"
+msgstr "Thanh bên phải (mặc định)"
+
+#: inc/metabox.php:13
+msgid "Sidebar Layout"
+msgstr "Bố cục Sidebar"
+
+#: inc/customizer/info.php:45
+msgid "Rate this theme: "
+msgstr "Xếp hạng chủ đề này :"
+
+#: inc/customizer/info.php:44
+msgid "Support Ticket: "
+msgstr "Nhận hỗ trợ :"
+
+#: inc/customizer/demo-content.php:41 inc/customizer/info.php:42
+#: inc/customizer/info.php:43 inc/customizer/info.php:44
+#: inc/customizer/info.php:45
+msgid "here"
+msgstr "đây"
+
+#: inc/extras.php:341
+msgid "Page"
+msgstr "Trang"
+
+#: inc/extras.php:340
+msgid ">"
+msgstr ">"
+
+#: inc/extras.php:339
+msgid "<"
+msgstr "<"
+
+#: inc/extras.php:315
+msgid "404 Error - Page not Found"
+msgstr "Lỗi 404 - Không tìm thấy trang"
+
+#: inc/extras.php:273
+msgid "Page %s"
+msgstr "Trang %s"
+
+#: inc/extras.php:212
+msgid "d"
+msgstr "d"
+
+#: inc/extras.php:211 inc/extras.php:216
+msgid "F"
+msgstr "F"
+
+#: inc/extras.php:211
+msgid "m"
+msgstr "m"
+
+#: inc/extras.php:210 inc/extras.php:211 inc/extras.php:215 inc/extras.php:219
+msgid "Y"
+msgstr "Y"
+
+#: inc/extras.php:207
+msgid "\""
+msgstr "\""
+
+#: inc/extras.php:207
+msgid "Search Results for \""
+msgstr "Tìm kiếm kết quả cho \""
+
+#. translators: %s: Name of current post
+#: inc/extras.php:63
+msgid "Edit %s"
+msgstr "Sửa %s"
+
+#. translators: %s: post title
+#: inc/extras.php:44
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Để lại bình luận<span class=\"screen-reader-text\"> on %s</span>"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/extras.php:29 inc/extras.php:35
+msgid ", "
+msgstr ", "
+
+#: inc/customizer/social.php:160 inc/extras.php:135
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/customizer/social.php:142 inc/extras.php:133
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/customizer/social.php:124 inc/extras.php:131
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/customizer/social.php:106 inc/extras.php:129
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/customizer/social.php:88 inc/extras.php:127
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: inc/customizer/social.php:70 inc/extras.php:125
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/customizer/social.php:51 inc/extras.php:123
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/customizer/social.php:33
+msgid "Enable Social Links"
+msgstr "Bật liên kết mạng xã hội"
+
+#: inc/customizer/social.php:15
+msgid "Leave blank if you do not want to show the social link."
+msgstr "Để trống nếu bạn không muốn hiển thị liên kết mạng xã hội."
+
+#: inc/customizer/social.php:14
+msgid "Social Settings"
+msgstr "Thiết lập mạng xã hội"
+
+#: inc/customizer/home.php:17
+msgid "Customize Home Page Settings"
+msgstr "Tùy chỉnh Cài đặt Trang chủ"
+
+#: inc/customizer/home.php:16
+msgid "Home Page Settings"
+msgstr "Cài đặt Trang chủ"
+
+#: inc/customizer/home/testimonial.php:72
+msgid "Posts that have the selected category will be displayed in the testimonial section."
+msgstr "Bài đăng có danh mục đã chọn sẽ được hiển thị trong phần lời chứng thực."
+
+#: inc/customizer/home/testimonial.php:34
+msgid "Enable Testimonials Section"
+msgstr "Bật phần Chứng thực"
+
+#: inc/customizer/home/testimonial.php:16
+msgid "Testimonials Section"
+msgstr "Phần Chứng Thực"
+
+#: inc/customizer/home/team.php:34
+msgid "Enable Team Section"
+msgstr "Bật Nhóm làm việc"
+
+#: inc/customizer/home/team.php:16
+msgid "Team Section"
+msgstr "Nhóm làm việc"
+
+#: inc/customizer/home/service.php:53
+msgid "Title, description and featured image of selected page will display as section title, description and background image."
+msgstr "Tiêu đề, mô tả và hình ảnh đặc trưng của trang đã chọn sẽ hiển thị dưới dạng tiêu đề, phần mô tả và hình nền ."
+
+#: inc/customizer/home/service.php:34
+msgid "Enable Services Section"
+msgstr "Bật Mục Dịch vụ"
+
+#: inc/customizer/home/service.php:16
+msgid "Services Section"
+msgstr "Phòng dịch vụ"
+
+#: inc/customizer/home/promotional.php:90
+msgid "CTA Button Link"
+msgstr "Liên kết Nút CTA"
+
+#: inc/customizer/home/promotional.php:72
+msgid "CTA Button Label"
+msgstr "Nhãn Nút CTA"
+
+#: inc/customizer/home/promotional.php:33
+msgid "Enable Promotional Section"
+msgstr "Bật phần Khuyến mại"
+
+#: inc/customizer/home/promotional.php:15
+msgid "Promotional Section"
+msgstr "Khuyến mại"
+
+#: inc/customizer/home/practice.php:129 inc/customizer/home/team.php:130
+msgid "Select Post/Page Four"
+msgstr "Chọn Bài viết/Trang Bốn"
+
+#: inc/customizer/home/practice.php:110 inc/customizer/home/service.php:110
+#: inc/customizer/home/team.php:111
+msgid "Select Post/Page Three"
+msgstr "Chọn Bài viết/Trang Ba"
+
+#: inc/customizer/home/practice.php:91 inc/customizer/home/service.php:91
+#: inc/customizer/home/team.php:92
+msgid "Select Post/Page Two"
+msgstr "Chọn Bài viết/Trang Hai"
+
+#: inc/customizer/home/practice.php:72 inc/customizer/home/service.php:72
+#: inc/customizer/home/team.php:73
+msgid "Select Post/Page One"
+msgstr "Chọn Bài viết/Trang Một"
+
+#: inc/customizer/home/practice.php:34
+msgid "Enable Practice Section"
+msgstr "Bật mục Thực hành"
+
+#: inc/customizer/home/practice.php:16
+msgid "Practice Section"
+msgstr "Mục thực hành"
+
+#: inc/customizer/home/faq.php:73
+msgid "Posts that have the selected category will be displayed in the FAQ section."
+msgstr "Bài viết có danh mục đã chọn sẽ được hiển thị trong phần Câu hỏi thường gặp ."
+
+#: inc/customizer/home/faq.php:34
+msgid "Enable FAQ Section"
+msgstr "Bật phần Hỏi đáp"
+
+#: inc/customizer/home/faq.php:16
+msgid "FAQ Section"
+msgstr "Phần Hỏi Đáp"
+
+#: inc/customizer/home/blog.php:34
+msgid "Display latest post in blog section"
+msgstr "Hiển thị bài đăng mới nhất trong mục blog"
+
+#: inc/customizer/home/blog.php:33
+msgid "Enable Blog Section"
+msgstr "Bật Mục Blog"
+
+#: inc/customizer/home/blog.php:15
+msgid "Blog Section"
+msgstr "Mục Blog"
+
+#: inc/customizer/home/banner.php:55
+msgid "Copy and paste the shortcode of the form from the contact form 7."
+msgstr "Sao chép và dán mã ngắn của biểu mẫu từ mẫu liên hệ 7."
+
+#: inc/customizer/home/banner.php:54
+msgid "Banner Form"
+msgstr "Biểu mẫu quảng cáo"
+
+#: inc/customizer/home/banner.php:33
+msgid "Check to enable banner on the front page. The featured image and content of Static Front Page will be displayed in the banner section. To add or edit the content of Static Front Page, go to Dashboard >> Pages > All Pages  and edit the page with Front Page template."
+msgstr "Chọn để bật biểu ngữ ở trang đầu. Các hình ảnh đặc trưng và nội dung của trang tĩnh sẽ được hiển thị trong phần quảng cáo. Để thêm hoặc chỉnh sửa nội dung của  trang tĩnh, đi đến Bảng điều khiển >> Trang> Tất cả Trang  và chỉnh sửa trang với trang  mẫu."
+
+#: inc/customizer/home/banner.php:32
+msgid "Enable Banner Section"
+msgstr "Bật Mục quảng cáo"
+
+#: inc/customizer/home/banner.php:14
+msgid "Banner Section"
+msgstr "Mục Quảng Cáo"
+
+#: inc/customizer/home/about.php:73
+msgid "Select About Post/Page"
+msgstr "Chọn Giới thiệu về Bài viết/Trang"
+
+#: inc/customizer/home/about.php:53 inc/customizer/home/blog.php:53
+#: inc/customizer/home/faq.php:53 inc/customizer/home/practice.php:53
+#: inc/customizer/home/promotional.php:52 inc/customizer/home/team.php:53
+#: inc/customizer/home/testimonial.php:53
+msgid "Title and description of selected page will display as section title and description."
+msgstr "Tiêu đề và mô tả của trang đã chọn sẽ hiển thị dưới dạng tiêu đề và mô tả phần."
+
+#: inc/customizer/home/about.php:52 inc/customizer/home/blog.php:52
+#: inc/customizer/home/faq.php:52 inc/customizer/home/practice.php:52
+#: inc/customizer/home/promotional.php:51 inc/customizer/home/service.php:52
+#: inc/customizer/home/team.php:52 inc/customizer/home/testimonial.php:52
+msgid "Select Page"
+msgstr "Chọn Trang"
+
+#: inc/customizer/home/about.php:34
+msgid "Enable About Section"
+msgstr "Bật Mục Giới Thiệu"
+
+#: inc/customizer/home/about.php:16
+msgid "About Section"
+msgstr "Mục Giới thiệu"
+
+#: inc/customizer/header.php:51
+msgid "Phone Number"
+msgstr "Số điện thoại"
+
+#: inc/customizer/header.php:33
+msgid "Check to enable Search Form in the header."
+msgstr "Chọn để bật Mẫu tìm kiếm trong tiêu đề ."
+
+#: inc/customizer/header.php:32
+msgid "Enable Search Form"
+msgstr "Bật Biểu mẫu Tìm kiếm"
+
+#: inc/customizer/header.php:14
+msgid "Header Setting"
+msgstr "Cài đặt tiêu đề"
+
+#: inc/customizer/default.php:18
+msgid "Default section provided by WordPress customizer"
+msgstr "Mục mặc định được cung cấp bởi WordPress customizer"
+
+#: inc/customizer/default.php:17
+msgid "Default Settings"
+msgstr "Thiết lập mặc định"
+
+#: inc/customizer/customizer.php:41 inc/customizer/home/faq.php:72
+#: inc/customizer/home/testimonial.php:71
+msgid "Choose Category"
+msgstr "Chọn Thể Loại"
+
+#: inc/customizer/customizer.php:24
+msgid "Choose Page"
+msgstr "Chọn Trang"
+
+#: inc/customizer/customizer.php:16
+msgid "Choose Post/Page"
+msgstr "Chọn Bài viết/Trang"
+
+#: inc/customizer/breadcrumb.php:86
+msgid "Breadcrumb Separator"
+msgstr "Đường dẫn Phân cách"
+
+#: inc/customizer/breadcrumb.php:78 inc/extras.php:156
+msgid "/"
+msgstr "/"
+
+#: inc/customizer/breadcrumb.php:68
+msgid "Breadcrumb Home Text"
+msgstr "Đường dẫn Trang chủ Tiêu đề"
+
+#: inc/customizer/breadcrumb.php:60 inc/extras.php:157
+msgid "Home"
+msgstr "Trang Chủ"
+
+#: inc/customizer/breadcrumb.php:50
+msgid "Show current"
+msgstr "Hiển thị hiện tại"
+
+#: inc/customizer/breadcrumb.php:32
+msgid "Enable/Disable Breadcrumb"
+msgstr "Bật / Tắt Breadcrumb"
+
+#: inc/customizer/breadcrumb.php:14
+msgid "Breadcrumb Settings"
+msgstr "Cài đặt Đường dẫn"
+
+#: inc/tgmpa/recommended-plugins.php:53
+msgid "Contact Form 7"
+msgstr "Mẫu liên hệ 7"
+
+#: inc/custom-functions.php:291
+msgid "Comment"
+msgstr "Bình luận"
+
+#: inc/custom-functions.php:276
+msgid "Website"
+msgstr "Website"
+
+#: inc/custom-functions.php:274
+msgid "Email*"
+msgstr "Email*"
+
+#: inc/custom-functions.php:272
+msgid "Name*"
+msgstr "Tên*"
+
+#: inc/custom-functions.php:48
+msgid "Primary"
+msgstr "Sơ cấp"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Cài đặt Plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Tất cả các cài đặt đã được hoàn thành."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s cài đặt thành công."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Quá trình cài đặt đang bắt đầu. Quá trình này có thể mất một thời gian đối với một số máy chủ, vì vậy hãy kiên nhẫn."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Cài đặt và Kích hoạt Plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Tất cả các cài đặt và kích hoạt đã hoàn thành."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Ẩn chi tiết"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Hiển thị chi tiết"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s cài đặt và kích hoạt thành công."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Quá trình cài đặt và kích hoạt đang bắt đầu. Quá trình này có thể mất một thời gian đối với một số máy chủ, vì vậy hãy kiên nhẫn."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "Việc cài đặt %1$s thất bại."
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Đã xảy ra lỗi khi cài đặt %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Đang cập nhật Plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "Kích hoạt plugin không thành công."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Không có trình cắm nào có sẵn để được kích hoạt tại thời điểm này."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Không có plugin nào được chọn để kích hoạt. Không có hành động."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Không có plugin nào sẵn có để được cập nhật tại thời điểm này."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Không có plugin nào sẵn có để được cài đặt tại thời điểm này."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Không có plugin nào được chọn để cập nhật. Không có hành động."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Không có plugin nào được chọn để cài đặt. Không có hành động."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Kích hoạt"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Cập nhật"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Cài Đặt"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Thông báo nâng cấp từ tác giả plugin  :"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Kích hoạt %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Cập nhật %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Cài đặt %2$s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Trạng thái"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Phiên bản"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Kiểu"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Nguồn"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Plugin"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "Không có plugin để cài đặt, cập nhật hoặc kích hoạt."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Phiên bản có sẵn:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Phiên bản bắt buộc tối thiểu:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Phiên bản đã cài đặt:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "không xác định"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Để Kích hoạt <span class=\"count\"> (%s) </span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Cập nhật Có sẵn <span class=\"count\"> (%s) </span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Để Cài đặt <span class=\"count\"> (%s) </span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Tất cả <span class=\"count\">(%s) </span>"
+
+#. translators: 1: install status, 2: update status
+#: inc/tgmpa/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Cập nhật được đề xuất"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Yêu cầu Cập nhật"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Cập nhật bắt buộc không khả dụng"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Kích hoạt"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Đã cài đặt nhưng chưa kích hoạt"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "Chưa cài đặt"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Đóng gói sẵn"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Nguồn ngoài"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "WordPress Repository"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Đề nghị"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Cần thiết"
+
+#. translators: %s: version number
+#: inc/tgmpa/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1121
+#: inc/tgmpa/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "và"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Gói điều khiển plugin từ xa bao gồm nhiều tập tin, nhưng các tập tin không được đóng gói trong một thư mục ."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:934
+#: inc/tgmpa/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Vui lòng liên hệ với nhà cung cấp plugin và yêu cầu họ đóng gói plugin của họ theo hướng dẫn của WordPress ."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Gói plugin từ xa không chứa thư mục có slug mong muốn và đổi tên không hoạt động."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Cần cập nhật"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Plugin này cần được cập nhật để tương thích với chủ đề của bạn  ."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Vui lòng liên hệ với quản trị viên của trang web này để được giúp đỡ."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Có một hoặc nhiều plugin được yêu cầu hoặc được yêu cầu để cài đặt, cập nhật hoặc kích hoạt."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Loại bỏ thông báo này"
+
+#. translators: 1: dashboard link.
+#: inc/tgmpa/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Tất cả các plugin được cài đặt và kích hoạt thành công.%1$s"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Plugin không kích hoạt. Một phiên bản cao hơn của %s là cần thiết cho chủ đề này . Hãy cập nhật plugin ."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Không có hành động. Plugin %1$s đã kích hoạt."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:388
+#: inc/tgmpa/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgstr "Các plugin sau đã được kích hoạt thành công:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:387
+#: inc/tgmpa/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "Plugin được kích hoạt thành công."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:386
+#: inc/tgmpa/class-tgm-plugin-activation.php:827
+#: inc/tgmpa/class-tgm-plugin-activation.php:2533
+#: inc/tgmpa/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Quay lại Bảng điều khiển"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Bắt buộc trở về trình cài đặt Plugins"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Bắt đầu kích hoạt plugin"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Bắt đầu cập nhật các plugin"
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Bắt đầu cài đặt plugin"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Đã xảy ra lỗi với plugin API."
+
+#. translators: %s: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Đang cập nhật Plugin: %s"
+
+#. translators: %s: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Đang Cài đặt Plugin: %s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Cài đặt Plugins"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Bắt buộc cài đặt Plugins"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "Đã đóng bình luận."
+
+#: comments.php:47
+msgid "Newer Comments"
+msgstr "Các bình luận mới hơn"
+
+#: comments.php:46
+msgid "Older Comments"
+msgstr "Các bình luận cũ hơn"
+
+#: comments.php:43
+msgid "Comment navigation"
+msgstr "Điều hướng bình luận"
+
+#: comments.php:28
+msgid "Comments"
+msgstr "Bình luận"
+
+#: 404.php:19
+msgid "Homepage"
+msgstr "Trang chủ"
+
+#: 404.php:17
+msgid "Can&rsquo;t find what you need? Take a moment and do a search below or start from our"
+msgstr "Không thể tìm thấy những gì bạn cần? Dành ít phút và thực hiện tìm kiếm dưới đây hoặc bắt đầu từ"
+
+#: 404.php:15
+msgid "Sorry, The Page Not Found"
+msgstr "Xin lỗi, Trang Không tìm thấy"
+
+#: 404.php:13
+msgid "404"
+msgstr "404"
+
+#. Author URI of the plugin/theme
+msgid "http://raratheme.com/"
+msgstr "http://raratheme.com/"
+
+#. Author of the plugin/theme
+msgid "Rara Theme"
+msgstr "Rara Theme"
+
+#. Theme URI of the plugin/theme
+msgid "http://raratheme.com/wordpress-themes/lawyer-landing-page/"
+msgstr "http://raratheme.com/wordpress-themes/lawyer-landing-page/"
