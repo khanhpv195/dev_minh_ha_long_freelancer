@@ -380,25 +380,11 @@ function lawyer_landing_page_footer_bottom(){
 		<div class="container">
 			<div class="site-info">
 				<span class="copyright">
-                    <?php
-                    if( $copyright_text ){
-                        echo wp_kses_post( $copyright_text );
-                    }else{
-                        esc_html_e( '&copy; Copyright ', 'lawyer-landing-page' ); 
-                        echo date_i18n( esc_html__( 'Y', 'lawyer-landing-page' ) );
-                        echo ' <a href="' . esc_url( home_url( '/' ) ) . '">' . esc_html( get_bloginfo( 'name' ) ) . '</a>.';    
-                    }
-                ?>
+                     <h2>Chủ đầu tư: Công ty TNHH Một Thành Viên Booyoung Việt Nam </h2> 
+                     <p>Địa chỉ: Biệt thự sô 5A dẫy 16A6 Làng Việt Kiều Châu Âu, Mỗ Lao, Hà Đông, Hà Nội -  Hotline : 0908.814.606</p>
+                   
                 </span> 
-                <span class="by">
-                    <a href="<?php echo esc_url( 'http://raratheme.com/wordpress-themes/lawyer-landing-page/' ); ?>" rel="author" target="_blank"><?php echo esc_html__( 'Lawyer Landing Page by Rara Theme', 'lawyer-landing-page' ); ?></a>.
-                    <?php printf( esc_html__( 'Powered by %s', 'lawyer-landing-page' ), '<a href="'. esc_url( __( 'https://wordpress.org/', 'lawyer-landing-page' ) ) .'" target="_blank">WordPress</a>' ); ?>.
-                    <?php
-                    if ( function_exists( 'the_privacy_policy_link' ) ) {
-                        the_privacy_policy_link();
-                    }
-                    ?>
-                </span>                
+                            
 			</div>
 		</div>
 	</div>
