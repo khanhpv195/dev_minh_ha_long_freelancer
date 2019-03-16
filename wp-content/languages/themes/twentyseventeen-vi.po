@@ -23,11 +23,11 @@ msgstr "Twenty Seventeen"
 msgid "Footer"
 msgstr "Cuối trang"
 
-#: functions.php:326
+#: functions.php:329
 msgid "Add widgets here to appear in your sidebar on blog posts and archive pages."
 msgstr "Thêm widget ở đây để hiển thị trong Sidebar của bạn trên các bài viết và trang Lưu trữ."
 
-#: functions.php:324 sidebar.php:18
+#: functions.php:327 sidebar.php:18
 msgid "Blog Sidebar"
 msgstr "Blog Sidebar"
 
@@ -36,26 +36,26 @@ msgstr "Blog Sidebar"
 msgid "Scroll down to content"
 msgstr "Scroll xuống nội dung"
 
-#: functions.php:167
+#: functions.php:170
 msgctxt "Theme starter content"
 msgid "Coffee"
 msgstr "Coffee"
 
-#: functions.php:163
+#: functions.php:166
 msgctxt "Theme starter content"
 msgid "Sandwich"
 msgstr "Bánh kẹp"
 
-#: functions.php:159
+#: functions.php:162
 msgctxt "Theme starter content"
 msgid "Espresso"
 msgstr "Espresso"
 
-#: inc/custom-header.php:126
+#: inc/custom-header.php:128
 msgid "Pause background video"
 msgstr "Tạm dừng video nền"
 
-#: inc/custom-header.php:125
+#: inc/custom-header.php:127
 msgid "Play background video"
 msgstr "Chạy video nền"
 
@@ -63,7 +63,7 @@ msgstr "Chạy video nền"
 msgid "Front Page Section %1$s Placeholder"
 msgstr "Mục nhập %1$s trên trang chủ"
 
-#: inc/customizer.php:99
+#: inc/customizer.php:109
 msgid "When the two-column layout is assigned, the page title is in one column and content is in the other."
 msgstr "Khi giao diện 2 cột được lựa chọn, tiêu đề trang sẽ trong 1 cột và nội dung sẽ trong cột khác."
 
@@ -106,68 +106,68 @@ msgstr "Vui lòng xác định tên file icon SVG."
 msgid "Please define default parameters in the form of an array."
 msgstr "Vui lòng xác định giá trị mặc định trong form của array."
 
-#: inc/customizer.php:131
+#: inc/customizer.php:143
 msgid "Select pages to feature in each area from the dropdowns. Add an image to a section by setting a featured image in the page editor. Empty sections will not be displayed."
 msgstr "Chọn trang để hiển thị nổi bật trong mỗi khu vực từ danh sách dropdown. Thêm ảnh cho muc bằng thiết lập ảnh đại diện trong phần sửa trang. Mục rỗng sẽ không hiển thị."
 
 #. translators: %d is the front page section number
-#: inc/customizer.php:130
+#: inc/customizer.php:142
 msgid "Front Page Section %d Content"
 msgstr "Nội dung mục trang chủ %d"
 
-#: inc/customizer.php:102 inc/customizer.php:158
+#: inc/customizer.php:112 inc/customizer.php:171
 msgid "Two Column"
 msgstr "Hai cột"
 
-#: inc/customizer.php:101 inc/customizer.php:157
+#: inc/customizer.php:111 inc/customizer.php:170
 msgid "One Column"
 msgstr "Một cột"
 
-#: inc/customizer.php:96
+#: inc/customizer.php:106
 msgid "Page Layout"
 msgstr "Giao diện trang"
 
-#: inc/customizer.php:81
+#: inc/customizer.php:89
 msgid "Theme Options"
 msgstr "Tuỳ chọn giao diện"
 
-#: inc/customizer.php:59
+#: inc/customizer.php:64
 msgid "Custom"
 msgstr "Tuỳ biến"
 
-#: inc/customizer.php:57
+#: inc/customizer.php:62
 msgid "Light"
 msgstr "Tông màu sáng"
 
-#: inc/customizer.php:55
+#: inc/customizer.php:60
 msgid "Color Scheme"
 msgstr "Tông màu"
 
-#: inc/custom-header.php:54
+#: inc/custom-header.php:56
 msgid "Default Header Image"
 msgstr "Ảnh mặc định trên cùng"
 
-#: functions.php:348
+#: functions.php:351
 msgid "Footer 2"
 msgstr "Cuối trang 2"
 
-#: functions.php:338 functions.php:350
+#: functions.php:341 functions.php:353
 msgid "Add widgets here to appear in your footer."
 msgstr "Thêm widget ở đây để hiển thị trong Cuối trang."
 
-#: functions.php:336
+#: functions.php:339
 msgid "Footer 1"
 msgstr "Cuối trang 1"
 
 #. Translators: If there are characters in your language that are not supported
 #. by Libre Franklin, translate this to 'off'. Do not translate into your own
 #. language.
-#: functions.php:277
+#: functions.php:280
 msgctxt "Libre Franklin font: on or off"
 msgid "on"
 msgstr "bật"
 
-#: functions.php:64 functions.php:191
+#: functions.php:64 functions.php:194
 #: template-parts/navigation/navigation-top.php:12
 msgid "Top Menu"
 msgstr "Menu trên cùng"
@@ -219,12 +219,8 @@ msgctxt "label"
 msgid "Search for:"
 msgstr "Tìm kiếm:"
 
-#: search.php:19
-msgid "Search Results for: %s"
-msgstr "Kết quả tìm kiếm cho từ khóa: %s"
-
 #. translators: %s: Name of current post
-#: functions.php:378 template-parts/page/content-front-page-panels.php:45
+#: functions.php:381 template-parts/page/content-front-page-panels.php:45
 #: template-parts/page/content-front-page.php:42
 #: template-parts/post/content-audio.php:84
 #: template-parts/post/content-gallery.php:71
@@ -233,18 +229,13 @@ msgstr "Kết quả tìm kiếm cho từ khóa: %s"
 msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
 msgstr "Đọc tiếp<span class=\"screen-reader-text\"> \"%s\"</span>"
 
-#: inc/customizer.php:58
+#: inc/customizer.php:63
 msgid "Dark"
 msgstr "Tông màu tối"
 
-#: inc/back-compat.php:39 inc/back-compat.php:52 inc/back-compat.php:68
+#: inc/back-compat.php:39 inc/back-compat.php:52 inc/back-compat.php:70
 msgid "Twenty Seventeen requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again."
 msgstr "Giao diện Twenty Seventeen yêu cầu phiên bản WordPress tối thiểu 4.7. Bạn đang sử dụng phiên bản %s. Vui lòng nâng cấp và thử lại."
-
-#. translators: %s: Name of current post
-#: inc/template-tags.php:117
-msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
-msgstr "Sửa<span class=\"screen-reader-text\"> \"%s\"</span>"
 
 #: template-parts/page/content-page.php:26
 #: template-parts/post/content-audio.php:91
@@ -262,15 +253,15 @@ msgstr "Menu"
 msgid "Skip to content"
 msgstr "Chuyển đến phần nội dung"
 
-#: functions.php:467
+#: functions.php:470
 msgid "Collapse child menu"
 msgstr "Ẩn Menu con"
 
-#: functions.php:466
+#: functions.php:469
 msgid "Expand child menu"
 msgstr "Hiện menu con"
 
-#: functions.php:65 functions.php:202
+#: functions.php:65 functions.php:205
 msgid "Social Links Menu"
 msgstr "Menu mạng xã hội"
 
@@ -291,19 +282,6 @@ msgstr "Menu mạng xã hội cuối trang"
 #: comments.php:82
 msgid "Comments are closed."
 msgstr "Không cho phép bình luận."
-
-#. translators: 1: number of comments, 2: post title
-#: comments.php:41
-msgctxt "comments title"
-msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
-msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
-msgstr[0] "%1$s Trả lời &ldquo;%2$s&rdquo;"
-
-#. translators: %s: post title
-#: comments.php:37
-msgctxt "comments title"
-msgid "One Reply to &ldquo;%s&rdquo;"
-msgstr "Một trả lời cho &ldquo;%s&rdquo;"
 
 #: archive.php:50 index.php:54 search.php:47
 msgid "Page"

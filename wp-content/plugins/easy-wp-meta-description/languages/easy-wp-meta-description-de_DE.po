@@ -1,0 +1,35 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Easy\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-29 09:46+0200\n"
+"PO-Revision-Date: 2018-07-29 09:49+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: de_DE\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: ../easy-wp-meta-description.php:61
+msgid "Front page meta description"
+msgstr "Beschreibung der Startseite"
+
+#: ../easy-wp-meta-description.php:73
+msgid "Added by"
+msgstr "Hinzugefügt von"
+
+#: ../easy-wp-meta-description.php:148
+msgid "Add a meta description to your HTML code"
+msgstr "Füge eine Beschreibung dem HTML-Code hinzu"
+
+#: ../easy-wp-meta-description.php:149
+msgid "Character count"
+msgstr "Zeichenzahl"
