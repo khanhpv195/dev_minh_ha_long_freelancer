@@ -48,7 +48,9 @@ if( $section_title || $about_post ){
 				<hr>
 				<div class="row">
 					<div class="img-holder">
-					  	<img width="456" height="268" src="./wp-content/uploads/2019/03/6.jpg" alt="">
+						<a href="<?php echo get_site_url()?>/2019/03/16/king-tower-ha-long/">
+						  <img width="456" height="268" src="./wp-content/uploads/2019/03/6.jpg" alt="">
+						</a>
 					</div>
 						<div class="text-holder">
 						<h3 class="sub-title"><a href="<?php echo get_site_url()?>/2019/03/16/king-tower-ha-long/">KING TOWER HẠ LONG</a></h3>
@@ -58,6 +60,23 @@ if( $section_title || $about_post ){
 							 Khu Trung tâm Hành Chính Mới của Bãi Cháy Hạ Long, sở hữu nhiều tiện ích nội khu hiện đại với tiềm năng phát triển mạnh mẽ. <br>
 							 King Tower Hạ Long được lấy ý tưởng từ Rancho Santa Marganita ở Mỹ hay Centenary City ở Nigeria – những thành phố trên lưng chừng đồi nổi tiếng <br>
 							 <a href="<?php echo get_site_url()?>/2019/03/16/king-tower-ha-long/">Xem Thêm</a>
+						</p>
+					</div>
+				</div>
+				<hr>
+				<div class="row">
+					<div class="img-holder">
+						<a href="<?php echo get_site_url()?>/2019/03/17/du-an-dat-nen-new-city-pho-noi-hung-yen/">
+						  <img width="456" height="268" src="./wp-content/uploads/2019/03/aa.jpg" alt="">
+						  </a>
+					</div>
+						<div class="text-holder">
+						<h3 class="sub-title"><a href="<?php echo get_site_url()?>/2019/03/17/du-an-dat-nen-new-city-pho-noi-hung-yen/">DỰ ÁN ĐẤT NỀN NEW CITY PHỐ NỐI HƯNG YÊN</a></h3>
+						<p>
+						Không chỉ mang lại tiềm năng đầu tư lâu dài mà là bước ngoặt của tương lai. <br>
+						 Được xem là thành phố tương lai là cửa ngõ phía Đông của Hà Nội với cơ hội tăng lợi nhuận từ 30-50%/2 năm <br>
+						 là câu chuyện đầu tư hấp dẫn tất cả nhà đầu tư khi các kênh trị trường đang dần bị hạn chế khi ngân hàng lãi suất thấp và chứng khoán thị trường Bất bênh.
+							 <a href="<?php echo get_site_url()?>/2019/03/17/du-an-dat-nen-new-city-pho-noi-hung-yen/">Xem Thêm</a>
 						</p>
 					</div>
 				</div>
