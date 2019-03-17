@@ -47,11 +47,7 @@ if( $section_title || $qry->have_posts() ){
     							</header>
     							<div class="entry-content">
     							   <?php 
-                                        if( has_excerpt() ){
-                                            the_excerpt();
-                                        }else{
-                                            the_content();
-                                        }
+                                      the_excerpt();
                                     ?>
     							</div>
     						</div>

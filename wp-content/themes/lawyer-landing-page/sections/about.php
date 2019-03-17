@@ -29,20 +29,36 @@ if( $section_title || $about_post ){
 				<div class="row">
 				<?php if( has_post_thumbnail() ){ ?>
 					<div class="img-holder">
-					   <a href="<?php the_permalink(); ?>">
-					        <?php the_post_thumbnail( 'lawyer-landing-page-about', array( 'itemprop' => 'image' ) ); ?>
+					   <a href="<?php echo get_site_url()?>/2019/03/16/chung-cu-booyoung-2/">
+					  	 <img width="456" height="268" src="./wp-content/uploads/2019/03/timthumb-456x268.jpg" alt="">
 					   </a>
 					</div>
 					<?php } ?>
 					<div class="text-holder">
-						<h3 class="sub-title"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
-						<?php 
-							if( has_excerpt() ){
-								the_excerpt();
-							}else{
-								the_content();
-							}
-						?>
+					<h3 class="sub-title"><a href=<?php echo get_site_url()?>/2019/03/16/chung-cu-booyoung-2/">Chung Cư BOOYOUNG</a></h3>
+						<p><strong>Tên dự án:</strong> Chung cư Quốc Tế&nbsp;BOOYOUNG VINA&nbsp;Mỗ Lao. Chủ đầu tư: Công Ty TNHH MTV Booyoung Việt Nam ( Hàn Quốc ) <br>
+						<strong>Vị trí:</strong> Nằm trung tâm khu đô thị Mỗ Lao , Hà Đông. <br>
+						<strong>Tổng mức đầu tư:</strong>&nbsp; 171 Triệu USD  <br>
+						<strong>Đơn vị tư vấn thiết kế:</strong> Công ty ILJIN ( Hàn Quốc )&nbsp; 
+						là một trong công ty thiết kế hàng đầu của Hàn Quốc cũng như trên thế giới 
+						với rất nhiều dự án nổi tiếng.&nbsp;<br>
+							<strong>Loại hình sở hữu:</strong> Sổ hồng vĩnh viễn. <a href="<?php echo get_site_url()?>/2019/03/16/chung-cu-booyoung-2/">Xem Thêm</a></p>
+					</div>
+				</div>
+				<hr>
+				<div class="row">
+					<div class="img-holder">
+					  	<img width="456" height="268" src="./wp-content/uploads/2019/03/6.jpg" alt="">
+					</div>
+						<div class="text-holder">
+						<h3 class="sub-title"><a href="<?php echo get_site_url()?>/2019/03/16/king-tower-ha-long/">KING TOWER HẠ LONG</a></h3>
+						<p>
+							Khu Đô Thị King Tower Hạ Long  
+							tọa lạc tại vị trí trung tâm Bãi Cháy Thành phố du Lịch Hạ Long xinh đẹp,<br>
+							 Khu Trung tâm Hành Chính Mới của Bãi Cháy Hạ Long, sở hữu nhiều tiện ích nội khu hiện đại với tiềm năng phát triển mạnh mẽ. <br>
+							 King Tower Hạ Long được lấy ý tưởng từ Rancho Santa Marganita ở Mỹ hay Centenary City ở Nigeria – những thành phố trên lưng chừng đồi nổi tiếng <br>
+							 <a href="<?php echo get_site_url()?>/2019/03/16/king-tower-ha-long/">Xem Thêm</a>
+						</p>
 					</div>
 				</div>
 
